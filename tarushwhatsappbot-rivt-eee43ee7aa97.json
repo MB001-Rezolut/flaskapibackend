@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tarushwhatsappbot-rivt",
+  "private_key_id": "eee43ee7aa9785e7798b2518eae709142e7cc2a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiJYCtbjxnlZNX\ngGZXGnD3ULX6kJiWErHzeZf0bP4ZOT2GaNW5Iaj+MLvqE70jBvtjvrLayDrLPsxq\nofeQjheU6ZRnIMWi7a05imPOhX5EXVCf2K2o5x7olrXVIYbSaJ/4NKsJbEWhBBYG\n/p7dYqlJZvbkwW+gIkh7RGrNKCGiYuo/WtCJHozmTN3kyCU6eiyi5UCiZ/P2Kgcp\nnx8M5QHPqZkn4nFx1/B+8iORSi/xdmD7NWdpmpfiMCl9aZqdGI6t+GlU7Q4KBTn8\nmZzpnDMId0X24h+0oZLRJVyfzAzljDfYXzfiMn9DAywzYWm7BVCqZfoE+gNZOmad\njqEQ2+pXAgMBAAECggEAUBW3zXEB8qNk57XqViEgJHa/uucKBi1rqPaof7gJdIna\nAnXrAYpHfmyxk3Z2V0OOjIBWtEprB5GXwx8GOGaF7S3E936vPr6nbSEWFJ3IdJmm\nRZzugNrOYFB3tLHfdjLot93DkF7isRlki8Xczzl4pWFuliOYL35fUErFeVjV6+6n\nakORaz91gJpH38Yb6u7uqD5q46pDIihhmHU6Si9Fr+GPkGK5G6oiSfmkyPXodF7R\nNskaF8EF7pQ8e7ePFqJeU+RVZ4ofB1EAlj2r+KgXSEFgxVQsfGsFuRmCfQjbrEDJ\nI63I0PLz1BFrOtGT4EWV8LsPQwoa0OXjA/XR48JF6QKBgQDYHYgjFtJh6fYLk1I3\ng+M81sRP0LbAwsK57ioLrwI0URPLpYsCboEU6pGIdzR9MnBxC3D7nkpP/Ikkxhzn\njfb/OZjD9FdoiF0yX+TZi5y10K3QyyU2kFc8KIaNCNyr04waZJTSp7d9nVpyyMEk\noaco7KWIEKTDU3RQoh0T5EBlywKBgQDAEi/45dyl2zoJo8yglhXqbw6rmcKLrFlI\nBYlZEFHkCIlTutb5mI2AALJkhsEOESFWLUN8Hn1S7tlZe6Ca/76vUSyZqlR5NrZa\ndHTHfjPAQAviLiB32fWeSahUFNkudgT50cmNnOZCa4cFxCW1qo/UKJNvqwHypI+m\neCSXk+EcJQKBgGHlZsC2WtCdwaXWszyQksQBaWXaXp6M2taMiyFFwpLeU0BBmemd\nEv3dj9UoYm+ABK1AiIqCVplLBPjSgU9m4IcWmRvSuDGS69yg0bK16mP1xna5Pv8r\nfUiz9tc2N3fiWSmvfDa8YIMXX1x1kgA89dK09/rdxzTvvdW0ycUz9PPnAoGALAE+\nunC3f8xdXK4JiNU6Ci8NlmUw/F0tS2HxWNVzXaJTDDrnW+IGsUf3ly6EdpuYHq1a\nI8q8fc65P1YissBbSMF5TW+H0Qmm98xsoPQaGTbTQiu9RphKPMy1YyYvqARkGXRm\nECrdWmRWWAzbcuaz8zCkrtXoKVZojwRBpfS8g30CgYEAwPfMUeNd10N3TlSb19Gy\nrLiuY5SpSnE/omLFr/hFvG9jFdqc4s2CjK0tSX+D+zIQSjEhb8H/QF47lS/9pH9q\n8SUFh+T1jpo4Yx7oCC54iwn+HGBKZg0AbFFX7dNnXLNZNn00TSXnWEwjEVF3JCt4\n9cpl6eiliAe01IuHgstDpUA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tarush-j-reddy@tarushwhatsappbot-rivt.iam.gserviceaccount.com",
+  "client_id": "105597927421209904485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tarush-j-reddy%40tarushwhatsappbot-rivt.iam.gserviceaccount.com"
+}
